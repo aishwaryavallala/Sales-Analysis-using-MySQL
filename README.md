@@ -53,3 +53,9 @@ To perform sales data analysis using SQL to identify patterns, trends, and actio
 - Certain cities dominate in sales volume
 
 - High variation in order frequency across customers
+  
+  # Conclusion
+  
+- This SQL-based sales analysis provides a clear view of business performance, helping identify key revenue contributors, profitable products, and customer trends. Such insights can guide marketing, inventory, and sales strategies.
+
+
